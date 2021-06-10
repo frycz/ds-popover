@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ds-popover/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ds-popover/static/js/main.87e894e7.chunk.js",
+    "main.js.map": "/ds-popover/static/js/main.87e894e7.chunk.js.map",
+    "runtime-main.js": "/ds-popover/static/js/runtime-main.c1145980.js",
+    "runtime-main.js.map": "/ds-popover/static/js/runtime-main.c1145980.js.map",
+    "static/js/2.619a5485.chunk.js": "/ds-popover/static/js/2.619a5485.chunk.js",
+    "static/js/2.619a5485.chunk.js.map": "/ds-popover/static/js/2.619a5485.chunk.js.map",
+    "static/js/3.bf2dd615.chunk.js": "/ds-popover/static/js/3.bf2dd615.chunk.js",
+    "static/js/3.bf2dd615.chunk.js.map": "/ds-popover/static/js/3.bf2dd615.chunk.js.map",
+    "index.html": "/ds-popover/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ds-popover/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.619a5485.chunk.js.LICENSE.txt": "/ds-popover/static/js/2.619a5485.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1145980.js",
+    "static/js/2.619a5485.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.87e894e7.chunk.js"
+  ]
+}
