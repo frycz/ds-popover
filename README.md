@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Design System popover bug reproduction
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
